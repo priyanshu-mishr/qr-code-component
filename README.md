@@ -1,6 +1,6 @@
 ## Overview
 
-This is a solution to the QR Code Component challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). It is beginner friendly web page, it is quite easy and simple to built. It is perfect for a beginner who's looking for pages for HTML and CSS practice.  
+This is a solution to the QR Code Component challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). It is a beginner friendly web page, it is quite easy and simple to built, with just basic knownledge of HTML and CSS we can build this web page. It is perfect for a beginner who's looking for pages for HTML and CSS practice.  
 
 ## My process
 
@@ -31,7 +31,3 @@ After doing all these processes, the web page is ready.
 -Molbile view
 
 ![](Screenshot/Mobile%20view.png)
-
-
-
-
