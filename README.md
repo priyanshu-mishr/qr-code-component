@@ -31,13 +31,3 @@ After doing all these processes, the web page is ready.
 -Molbile view
 
 ![](Screenshot/Mobile-view.png)
-
-### What I learned
-
-While working on this project, I learned how I can effectively use the adsolute and relative length units, use the inspect element to determine the padding, margin, height and width, use the flexbox to center the content items, and lastly, I learned more about the max and min width and height concecpt. 
-
-### Continued development
-
-I'm looking forword to build more projects on topic like this to harness my skills in structuring and styling the web page.
-
-
