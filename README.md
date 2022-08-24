@@ -26,11 +26,11 @@ After doing all these processes, the web page is ready.
 
 -Desktop view
 
-![](Screenshot/Desktop%20view.png.jpg)
+![](Screenshot/Desktop%20view.png)
 
 -Molbile view
 
-![](Screenshot/Mobile%20view.png.jpg)
+![](Screenshot/Mobile%20view.png)
 
 ### What I learned
 
